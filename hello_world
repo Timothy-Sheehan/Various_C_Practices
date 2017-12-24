@@ -1,7 +1,10 @@
+/* This is a comment, compilers ignore everything inside of them. */
 #include <stdio.h>
 
 main()
 {
+  /* Displays Hello World to the console */
   printf("Hello World\n");
+  /* Certain compilers give warnings if a function does not return a value */
   return 0;
 }
