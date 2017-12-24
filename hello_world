@@ -1,4 +1,7 @@
-/* This is a comment, compilers ignore everything inside of them. */
+/*
+This is a comment, compilers ignore everything inside of them. 
+This program displays Hello World in the console
+*/
 #include <stdio.h>
 
 main()
