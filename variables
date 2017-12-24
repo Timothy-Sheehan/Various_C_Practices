@@ -1,0 +1,18 @@
+/* Variable decleration, manipulation, and display */
+#include <stdio.h>
+
+main()
+{
+  /* Declares four variables */
+  int height, length, width, volume;
+  
+  /* Sets the values of the four variables */
+  height = 4;
+  length = 3;
+  width = 9;
+  volume = height * length * width;
+  
+  /* %d Shows where to display the variable in the console */
+  printf("Volume of the cube: %d\n", volume);
+  return 0;
+}
